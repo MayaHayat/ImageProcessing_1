@@ -25,7 +25,7 @@ def myID() -> int:
     Return my ID (not the friend's ID I copied from)
     :return: int
     """
-    return 322515669
+    return 12345678
 
 
 def imReadAndConvert(filename: str, representation: int) -> np.ndarray:
